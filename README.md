@@ -1,7 +1,7 @@
 # [Densely-Self-guided-Wavelet-Network-for-Image-Denoising](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w31/Liu_Densely_Self-Guided_Wavelet_Network_for_Image_Denoising_CVPRW_2020_paper.pdf) Official PyTorch Implementation
 
-<p align="center"><img width="99%" src="figs/teaser.png" /></p>
-<p align="center"><img width="99%" src="figs/results.png" /></p>
+<p align="center"><img width="50%" src="figs/teaser.png" /></p>
+<p align="center"><img width="99%" src="figs/result.png" /></p>
 
 ## Configuration Environment
 
