@@ -1,5 +1,7 @@
 # Densely-Self-guided-Wavelet-Network-for-Image-Denoising Official PyTorch Implementation
 
+paper(https://openaccess.thecvf.com/content_CVPRW_2020/papers/w31/Liu_Densely_Self-Guided_Wavelet_Network_for_Image_Denoising_CVPRW_2020_paper.pdf)
+
 Our network uses DWT and IDWT. Please install correspinding library as the following link: https://github.com/fbcotter/pytorch_wavelets
 
 We have upload all the .py files and .txt file. Please unzip the training and valid data in the workspace as name_list.txt and val_gt.txt.
